@@ -8,4 +8,7 @@ streamlit run app.py
 
 # hosted on streamlit server
 https://prashxxnt-ipl-watch-win-predictor-app-dtdn04.streamlit.app/
+<<<<<<< HEAD
 
+=======
+>>>>>>> a825a5e86c3d45e9abc43a54bb426296763c04f2
